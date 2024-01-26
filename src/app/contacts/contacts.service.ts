@@ -21,7 +21,7 @@ const CONTACTS: ContactsModel[] = [
         date: '2021-01-01',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris.',
         rating: 3,
-        phone: '123-456-7890',
+        phone: '12-99136-1506',
         birthday: '1990-01-01',
         url: 'https://www.google.com',
         address: '123 Main St, City, State 12345',
